@@ -7562,3 +7562,18 @@ form.search-box .search-form a {
     font-size: 35px;
     color: #36A0FF;
 }
+
+.map-container-6 {
+    overflow: hidden;
+    padding-bottom: 56.25%;
+    position: relative;
+    height: 0;
+}
+
+.map-container-6 iframe {
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}

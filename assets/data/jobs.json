@@ -1,9 +1,8 @@
 [
 
-
     {
-        "job": "Digital Work",
-        "workspace": "Agency Creative",
+        "job": "Trabajador Digital",
+        "workspace": "Agencia creativa",
         "country": "Ecuador",
         "city": "Guayaquil",
         "pay_inicial": "100",
@@ -14,99 +13,99 @@
 
     },
     {
-        "job": "Digital Work",
-        "workspace": "Agency Creative",
+        "job": "Diseño creación",
+        "workspace": "Agencia creativa",
         "country": "Ecuador",
-        "city": "Guayaquil",
+        "city": "Cuenca",
         "pay_inicial": "100",
         "pay_end": "400",
-        "time": "Tiempo Completo",
+        "time": "Tiempo parcial",
         "img_emp": "",
-        "time_publication": "4"
+        "time_publication": "2"
 
     },
     {
-        "job": "Digital Work",
-        "workspace": "Agency Creative",
+        "job": "Arquitecto",
+        "workspace": "Construcción",
         "country": "Ecuador",
         "city": "Guayaquil",
         "pay_inicial": "100",
-        "pay_end": "400",
+        "pay_end": "500",
         "time": "Tiempo Completo",
         "img_emp": "",
-        "time_publication": "4"
+        "time_publication": "1"
 
     },
     {
-        "job": "Digital Work",
-        "workspace": "Agency Creative",
+        "job": "Profesor",
+        "workspace": "Colegio",
         "country": "Ecuador",
-        "city": "Guayaquil",
-        "pay_inicial": "100",
+        "city": "Quito",
+        "pay_inicial": "200",
         "pay_end": "400",
         "time": "Tiempo Completo",
         "img_emp": "",
-        "time_publication": "4"
+        "time_publication": "5"
 
     },
     {
-        "job": "Digital Work",
-        "workspace": "Agency Creative",
+        "job": "Jardinero",
+        "workspace": "Condominio",
         "country": "Ecuador",
         "city": "Guayaquil",
         "pay_inicial": "100",
-        "pay_end": "400",
+        "pay_end": "300",
         "time": "Tiempo Completo",
         "img_emp": "",
-        "time_publication": "4"
+        "time_publication": "1"
 
     },
     {
-        "job": "Digital Work",
-        "workspace": "Agency Creative",
+        "job": "Diseñador Web",
+        "workspace": "Desarrollo",
         "country": "Ecuador",
-        "city": "Guayaquil",
-        "pay_inicial": "100",
-        "pay_end": "400",
+        "city": "Cuenca",
+        "pay_inicial": "300",
+        "pay_end": "600",
         "time": "Tiempo Completo",
         "img_emp": "",
-        "time_publication": "4"
+        "time_publication": "10"
 
     },
     {
-        "job": "Digital Work",
-        "workspace": "Agency Creative",
+        "job": "Ingeniero civil",
+        "workspace": "Administrativa",
         "country": "Ecuador",
-        "city": "Guayaquil",
-        "pay_inicial": "100",
-        "pay_end": "400",
-        "time": "Tiempo Completo",
+        "city": "Quito",
+        "pay_inicial": "200",
+        "pay_end": "500",
+        "time": "Tiempo parcial",
         "img_emp": "",
-        "time_publication": "4"
+        "time_publication": "3"
 
     },
     {
-        "job": "Digital Work",
-        "workspace": "Agency Creative",
+        "job": "Editor web",
+        "workspace": "Area creativa",
         "country": "Ecuador",
         "city": "Guayaquil",
         "pay_inicial": "100",
         "pay_end": "400",
         "time": "Tiempo Completo",
         "img_emp": "",
-        "time_publication": "4"
+        "time_publication": "3"
 
     },
     {
-        "job": "Digital Work",
-        "workspace": "Agency Creative",
+        "job": "Analista digital",
+        "workspace": "Area operativa",
         "country": "Ecuador",
         "city": "Guayaquil",
         "pay_inicial": "100",
         "pay_end": "400",
         "time": "Tiempo Completo",
         "img_emp": "",
-        "time_publication": "4"
+        "time_publication": "2"
 
     }
 ]
